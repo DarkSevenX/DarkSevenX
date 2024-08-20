@@ -9,8 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarkSevenX&theme=dark&hide_border=true)<br/>
 
 </p>        
-<!--- stats (end) -->
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-argumedo-ramos-ba200a323/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-argumedo-ramos-ba200a323/)
 
 [![](https://visitcount.itsvg.in/api?id=DarkSevenX&icon=8&color=0)](https://visitcount.itsvg.in)
