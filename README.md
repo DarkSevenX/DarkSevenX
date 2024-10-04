@@ -10,11 +10,9 @@
 - [🖥️ Back End Development and APIs NodeJs](https://www.freecodecamp.org/certification/NelsonArgumedo/back-end-development-and-apis)
 - [🏗️ Html](https://www.sololearn.com/es/certificates/CT-G9RFAICP)
 - [🎛️ Git & GitHub](https://app.aluracursos.com/certificate/nelsonargumedo2809/git-github-repositorio-commit-versiones)
-  
-<div align="center">
-  Este es un texto centrado
-</div>
-
 
 # 💣 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark" alt="Tarjeta de perfil de GitHub" />
+</div>
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark)-->
