@@ -9,6 +9,7 @@
 - [⚙️ JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/NelsonArgumedo/javascript-algorithms-and-data-structures)
 - [🖥️ Back End Development and APIs NodeJs](https://www.freecodecamp.org/certification/NelsonArgumedo/back-end-development-and-apis)
 - [🏗️ Html](https://www.sololearn.com/es/certificates/CT-G9RFAICP)
+- [🎛️ Git & GitHub](https://app.aluracursos.com/certificate/nelsonargumedo2809/git-github-repositorio-commit-versiones)
  
 # 💣 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark)
