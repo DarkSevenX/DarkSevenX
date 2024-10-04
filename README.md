@@ -11,7 +11,10 @@
 - [🏗️ Html](https://www.sololearn.com/es/certificates/CT-G9RFAICP)
 - [🎛️ Git & GitHub](https://app.aluracursos.com/certificate/nelsonargumedo2809/git-github-repositorio-commit-versiones)
   
-<h1 style="text-align: center">algo</h1>
+<div align="center">
+  Este es un texto centrado
+</div>
+
 
 # 💣 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark)
