@@ -23,6 +23,9 @@ Soy un programador apasionado por el desarrollo Web y estudiante de Ingeniería 
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge\&logo=pnpm\&logoColor=f69220)
 
+## Proyectos
+![CommitBrief](https://commitbrief.netlify.app/) - Changelog público desde GitHub. Commits agrupados y redactados para humanos.
+
 ## Certifications
 - [🪝 Introduction to Javascript](https://www.sololearn.com/es/certificates/CC-X3C1GRTD)
 - [⚙️ JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/NelsonArgumedo/javascript-algorithms-and-data-structures)
