@@ -25,7 +25,7 @@ Soy un programador apasionado por el desarrollo Web y estudiante de Ingeniería 
 
 ## Proyectos
 - [CommitBrief [BETA]](https://commitbrief.netlify.app/) - Changelog público desde GitHub. Commits agrupados y redactados para humanos.
-- [Express Auth Router](exressauth.netlify.app) - Router de autenticación JWT para Express + Prisma. Registro, login y rutas protegidas.
+- [Express Auth Router](https://exressauth.netlify.app) - Router de autenticación JWT para Express + Prisma. Registro, login y rutas protegidas.
 
 ## Certifications
 - [🪝 Introduction to Javascript](https://www.sololearn.com/es/certificates/CC-X3C1GRTD)
