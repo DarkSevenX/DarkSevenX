@@ -37,8 +37,8 @@ Soy un programador apasionado por el desarrollo Web y estudiante de Ingeniería 
 - [🏗️ Html](https://www.sololearn.com/es/certificates/CT-G9RFAICP)
 - [🎛️ Git & GitHub](https://app.aluracursos.com/certificate/nelsonargumedo2809/git-github-repositorio-commit-versiones)
 
-## 💣 GitHub Stats
 <!-- <div align="center">
+## 💣 GitHub Stats
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark" alt="Tarjeta de perfil de GitHub" />
 </div> -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkSevenX&theme=github_dark)-->
