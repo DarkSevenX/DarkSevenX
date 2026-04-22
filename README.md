@@ -30,12 +30,14 @@ Soy un programador apasionado por el desarrollo Web y estudiante de Ingeniería 
 - [Express Auth Router](https://xpressauth.netlify.app) - Router de autenticación JWT para Express + Prisma. Registro, login y rutas protegidas.
 - [Megara](https://megarahabits.netlify.app/) - Construye hábitos consistentes con la técnica Pomodoro
 
+<!-- 
 ## Certifications
 - [🪝 Introduction to Javascript](https://www.sololearn.com/es/certificates/CC-X3C1GRTD)
 - [⚙️ JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/NelsonArgumedo/javascript-algorithms-and-data-structures)
 - [🖥️ Back End Development and APIs NodeJs](https://www.freecodecamp.org/certification/NelsonArgumedo/back-end-development-and-apis)
 - [🏗️ Html](https://www.sololearn.com/es/certificates/CT-G9RFAICP)
 - [🎛️ Git & GitHub](https://app.aluracursos.com/certificate/nelsonargumedo2809/git-github-repositorio-commit-versiones)
+-->
 
 <!-- <div align="center">
 ## 💣 GitHub Stats
