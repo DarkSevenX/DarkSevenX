@@ -1,5 +1,5 @@
 # Hola, Soy Nelson
-Soy un programador apasionado por el desarrollo Web y estudiante de Ingeniería de Software.
+<!--  Soy un programador apasionado por el desarrollo Web y estudiante de Ingeniería de Software. -->
 
 ## ⚡ Technologies
 #### 🧠 Lenguajes
