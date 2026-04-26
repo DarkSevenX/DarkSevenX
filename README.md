@@ -1,5 +1,6 @@
-# Hola, Soy Nelson
- 
+<div align="center">
+# Hola, Soy Nelson 
+</div> 
 ## ⚡ Technologies
 #### 🧠 Lenguajes
 
