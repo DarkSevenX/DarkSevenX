@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Hola, Soy Nelson </h1>
-</br>
 </div> 
 
 ## ⚡ Technologies
