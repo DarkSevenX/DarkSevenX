@@ -1,5 +1,5 @@
 <div align="center">
-# Hola, Soy Nelson 
+<h1>Hola, Soy Nelson </h1>
 </div> 
 ## ⚡ Technologies
 #### 🧠 Lenguajes
