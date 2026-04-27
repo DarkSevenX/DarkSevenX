@@ -23,15 +23,15 @@
 #### 📦 Package Managers
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge\&logo=pnpm\&logoColor=f69220)
-
+-->
 ## Proyectos
 - [Ultra Nvim](https://darksevenx.github.io/ultra-nvim/) - Mi distro de neovim llevada al maximo con todo lo necesario para desarrollar sin tener que pasar horas configurando.
 - [Boo Money 👻](https://boo-money.vercel.app/) -  Herramienta personal para ver el flujo de ingresos y gastos en orden, con la regla 50/30/20.
 - [CommitBrief [BETA]](https://commitbrief.netlify.app/) - Changelog público desde GitHub. Commits agrupados y redactados para humanos.
 - [Express Auth Router](https://xpressauth.netlify.app) - Router de autenticación JWT para Express + Prisma. Registro, login y rutas protegidas.
 - [Megara](https://megarahabits.netlify.app/) - Construye hábitos consistentes con la técnica Pomodoro
--->
-<!-- 
+
+
 ## Certifications
 - [🪝 Introduction to Javascript](https://www.sololearn.com/es/certificates/CC-X3C1GRTD)
 - [⚙️ JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/NelsonArgumedo/javascript-algorithms-and-data-structures)
