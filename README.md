@@ -19,7 +19,7 @@
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 
-
+<!-- 
 #### 📦 Package Managers
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge\&logo=pnpm\&logoColor=f69220)
@@ -30,7 +30,7 @@
 - [CommitBrief [BETA]](https://commitbrief.netlify.app/) - Changelog público desde GitHub. Commits agrupados y redactados para humanos.
 - [Express Auth Router](https://xpressauth.netlify.app) - Router de autenticación JWT para Express + Prisma. Registro, login y rutas protegidas.
 - [Megara](https://megarahabits.netlify.app/) - Construye hábitos consistentes con la técnica Pomodoro
-
+-->
 <!-- 
 ## Certifications
 - [🪝 Introduction to Javascript](https://www.sololearn.com/es/certificates/CC-X3C1GRTD)
