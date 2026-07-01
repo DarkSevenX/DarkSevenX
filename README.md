@@ -33,6 +33,7 @@
 - [Megara](https://megarahabits.netlify.app/) - Construye hábitos consistentes con la técnica Pomodoro
 
 <!-- 
+esto es un comentario para commit brief holaaaaaaa, saludos
 ## Certifications
 - [🪝 Introduction to Javascript](https://www.sololearn.com/es/certificates/CC-X3C1GRTD)
 - [⚙️ JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/NelsonArgumedo/javascript-algorithms-and-data-structures)
